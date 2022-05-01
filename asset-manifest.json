@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/https://tathagata1805.github.io/Movie-Store/static/css/main.59b37964.chunk.css",
+    "main.js": "/https://tathagata1805.github.io/Movie-Store/static/js/main.96655d32.chunk.js",
+    "main.js.map": "/https://tathagata1805.github.io/Movie-Store/static/js/main.96655d32.chunk.js.map",
+    "runtime-main.js": "/https://tathagata1805.github.io/Movie-Store/static/js/runtime-main.fec79674.js",
+    "runtime-main.js.map": "/https://tathagata1805.github.io/Movie-Store/static/js/runtime-main.fec79674.js.map",
+    "static/css/2.01bdca31.chunk.css": "/https://tathagata1805.github.io/Movie-Store/static/css/2.01bdca31.chunk.css",
+    "static/js/2.ed4a9610.chunk.js": "/https://tathagata1805.github.io/Movie-Store/static/js/2.ed4a9610.chunk.js",
+    "static/js/2.ed4a9610.chunk.js.map": "/https://tathagata1805.github.io/Movie-Store/static/js/2.ed4a9610.chunk.js.map",
+    "index.html": "/https://tathagata1805.github.io/Movie-Store/index.html",
+    "service-worker.js": "/https://tathagata1805.github.io/Movie-Store/service-worker.js",
+    "service-worker.js.map": "/https://tathagata1805.github.io/Movie-Store/service-worker.js.map",
+    "static/css/2.01bdca31.chunk.css.map": "/https://tathagata1805.github.io/Movie-Store/static/css/2.01bdca31.chunk.css.map",
+    "static/css/main.59b37964.chunk.css.map": "/https://tathagata1805.github.io/Movie-Store/static/css/main.59b37964.chunk.css.map",
+    "static/js/2.ed4a9610.chunk.js.LICENSE.txt": "/https://tathagata1805.github.io/Movie-Store/static/js/2.ed4a9610.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fec79674.js",
+    "static/css/2.01bdca31.chunk.css",
+    "static/js/2.ed4a9610.chunk.js",
+    "static/css/main.59b37964.chunk.css",
+    "static/js/main.96655d32.chunk.js"
+  ]
+}
